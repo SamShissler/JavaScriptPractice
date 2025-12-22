@@ -1,0 +1,40 @@
+html {
+    margin: 0px;
+}
+
+body {
+    background: rgb(35, 35, 35);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button {
+    border: solid black 1px;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: black;   
+}
+
+.checkbox {
+    margin-right: 20px;
+}
+
+#toDoInput {
+    width: 50%;
+}
+
+#list {
+    text-align: left;
+    list-style-type: none;
+}
+
+li {
+    margin: 5px auto 5px;
+}
+
