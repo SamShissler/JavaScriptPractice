@@ -1,0 +1,44 @@
+html {
+    margin: 0;
+}
+
+span {
+    display: block;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.canvas {
+    margin:  100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border-radius: 35%;
+}
+bte
+#Green {
+    background: green;
+}
+
+#Grey {
+    background: gray;
+}
+
+#Purple {
+    background: purple;
+}
+
+#Blue {
+    background-color: blue;
+}
+
+#Black {
+    background-color: black;
+}
